@@ -22,6 +22,9 @@ an application to catalogue your plant collection.
 #### Phase 5:
 - Talk to a 3rd-party API 
 
+#### Phase 6: 
+- Social Media or Buy/Sell Platform
+
 ## Requirements
 - Deploy it on the open web
 - Use a database instead of in-memory storage
